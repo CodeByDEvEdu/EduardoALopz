@@ -1,4 +1,4 @@
-# Olá, eu sou o Eduardo Lopes! 👋
+# Olá, Eu Sou o Eduardo Lopes! 👋
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -18,8 +18,8 @@ Tenho 19 anos e sou natural do Rio Grande do Sul. Recentemente, tomei a decisão
 Atualmente, curso **Análise e Desenvolvimento de Sistemas** pela **Universidade São Judas Tadeu** e estou em busca da minha primeira oportunidade no mercado de trabalho para aplicar meus conhecimentos técnicos, evoluir como profissional e contribuir com soluções eficientes.
 
 - 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas (Universidade São Judas Tadeu)
-- 📍 **Localização:** São Paulo - SP (Natural do RS 🌾)
-- 🎯 **Objetivo:** Primeira oportunidade / Estágio / Desenvolvedor Júnior
+- 📍 **Localização:** São Paulo
+- 🎯 **Objetivo:** Primeira Oportunidade / Estágio / Desenvolvedor Júnior
 
 ---
 
