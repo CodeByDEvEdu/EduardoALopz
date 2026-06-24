@@ -1,8 +1,8 @@
 # EduardoLopes 👋
 
-Desenvolvedor BackEnd focado no ecossistema Java. Desenvolvendo soluções eficientes, escaláveis e de alta performance.
+Desenvolvedor BackEnd Focado no Ecossistema Java. Desenvolvendo Soluções Eficientes, Escaláveis e de Alta Performance.
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Universidade São Judas Tadeu** e em busca da primeira oportunidade profissional no setor tecnológico.
+Atualmente Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade São Judas Tadeu** e em Busca da Primeira Oportunidade Profissional no Setor Tecnológico.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -17,19 +17,19 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Universidade
 
 ## SobreMim
 
-* **Origem:** Natural do Rio Grande do Sul, residindo atualmente em São Paulo - SP.
+* **Origem:** Natural do Rio Grande do Sul, Residindo Atualmente em São Paulo.
 * **Formação:** Graduação em Análise e Desenvolvimento de Sistemas (Universidade São Judas Tadeu).
-* **FocoProfissional:** Desenvolvimento BackEnd com sólida fundamentação em arquitetura de software, persistência de dados e segurança de APIs.
-* **Objetivo:** Inserção no mercado de trabalho como Estagiário de Tecnologia ou Desenvolvedor Júnior.
+* **FocoProfissional:** Desenvolvimento BackEnd com Sólida Fundamentação em Arquitetura de Software, Persistência de Dados e Segurança de Aplications Programming Interface.
+* **Objetivo:** Inserção no Mercado de Trabalho Como Estagiário de Tecnologia ou Desenvolvedor Júnior.
 
 ---
 
 ## TecnologiasEFechaduras
 
 * **LinguagensDeProgramação:** Java
-* **FrameworksEEcossistema:** SpringBoot, SpringDataJPA, SpringSecurity, SpringWeb
-* **BancosDeDados:** SQL, MySQL
-* **InfraestruturaEDevOps:** Docker, AWS
+* **FrameworksEEcossistema:** SpringBoot, SpringDataJpa, SpringSecurity, SpringWeb
+* **BancosDeDados:** Sql, MySql
+* **InfraestruturaEDevOps:** Docker, Amazon Web Service
 * **ControleDeVersão:** Git, GitHub
 
 ---
@@ -41,6 +41,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Universidade
 
 ---
 
-> "Construindo uma trajetória sólida na tecnologia por meio de consistência, aprendizado contínuo e foco em excelência técnica."
+> "Construindo uma Trajetória Sólida na Tecnologia por Meio de Consistência, Aprendizado Contínuo e foco em Excelência Técnica."
 
 **Tags:** `Java` `SpringBoot` `BackEnd` `SQL` `Docker` `AWS` `SoftwareDevelopment`
