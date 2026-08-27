@@ -28,7 +28,7 @@ Atualmente Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade
 
 * **Linguagens De Programação:** Java
 * **Frameworks E Ecossistema:** SpringBoot, SpringDataJpa, SpringSecurity, SpringWeb
-* **Bancos De Dados:** SQL, MyQL
+* **Bancos De Dados:** Sql, MySql
 * **Infraestrutura & DevOps:** Docker, Amazon Web Service (Aws)
 * **Controle DeVersão:** Git, GitHub
 
